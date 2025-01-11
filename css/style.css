@@ -1,0 +1,8 @@
+.baner {
+  background: url("https://images.alphacoders.com/135/1357373.jpeg") no-repeat
+    center center;
+  background-size: cover;
+  padding-top: 20%;
+  padding-bottom: 20px;
+  color: #ffffff;
+}
