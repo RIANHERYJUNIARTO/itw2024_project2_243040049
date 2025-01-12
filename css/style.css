@@ -9,3 +9,33 @@
 .row {
   gap: 1rem;
 }
+.row2 {
+  display: flex;
+  justify-content: space-evenly;
+  gap: 1rem;
+  color: black;
+}
+.services .apaweh {
+  color: #ffffff;
+}
+.display-4 {
+  color: #ffffff;
+}
+.tols {
+  align-items: center;
+}
+.card1 {
+  background-color: #ffffff;
+  padding-top: 10px;
+  padding: 20px;
+}
+.card2 {
+  background-color: #ffffff;
+  padding-top: 10px;
+  padding: 20px;
+}
+.card3 {
+  background-color: #ffffff;
+  padding-top: 10px;
+  padding: 20px;
+}
