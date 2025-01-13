@@ -46,4 +46,18 @@
 .row5 p {
   letter-spacing: 10px;
 }
-/* contact */
+
+/*  */
+@media (max-width: 618px) {
+  .card-body {
+    font-size: small;
+  }
+  .card-img-top {
+    align-items: center;
+  }
+  .star {
+    font-size: 6px;
+  }
+  .card1 {
+  }
+}
