@@ -39,3 +39,11 @@
   padding-top: 10px;
   padding: 20px;
 }
+.row5 {
+  display: flex;
+  gap: 10px;
+}
+.row5 p {
+  letter-spacing: 10px;
+}
+/* contact */
