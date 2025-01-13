@@ -46,6 +46,9 @@
 .row5 p {
   letter-spacing: 10px;
 }
+.source {
+  font-size: smaller;
+}
 
 /*  */
 @media (max-width: 618px) {
@@ -58,6 +61,10 @@
   .star {
     font-size: 6px;
   }
-  .card1 {
+  .row {
+    margin-left: 100px;
+  }
+  .row2 {
+    display: grid;
   }
 }
